@@ -1,0 +1,563 @@
+*{
+    color: white;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100vh;
+}
+
+.trex_b {
+    background-image: url(./img/пдпдпд.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.index {
+    background-image: url(./img/glav.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cont {
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 70px;
+    border-radius: 15px;
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+    color: black;
+}
+
+img {
+    width: 320px;
+    border-radius: 10px;
+}
+
+.glav {
+
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    flex-wrap: wrap;
+
+}
+
+.a1 {
+    text-decoration: none;
+    border: 1px solid black;
+    font-size: 20px;
+    color: black;
+    border-radius: 5px;
+}
+
+
+.ppppppp1 {
+    margin: 50px 0;
+}
+
+.alien {
+    width: 315px;
+    margin: 15px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.div {
+    margin-top: 60px;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 300px;
+    padding: 10px;
+    
+
+}
+
+
+
+.ash_krak_img {
+    /* height: 300px; */
+    width: 300px;
+}
+
+.ash_krak {
+    width: 315px;
+
+}
+
+.nami_img {
+    width: 315px;
+}
+
+.alien_img {
+    width: 240px;
+}
+
+.coont {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    width: 65%;
+    margin: 25px auto;
+}
+
+.glav_2 {
+
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+
+.ball {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 50px;
+    text-decoration: none;
+    color: black;
+    width: 45%;
+    margin: 40px auto;
+    height: 125px;
+
+
+}
+
+.baal {
+    margin: 15px;
+    display: block;
+    margin: 0 auto;
+    width: 1050px;
+    color: black;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 125px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.agl:hover {
+    color: blue;
+
+}
+
+
+
+.na_glav {
+    margin-left: 5px;
+    font-size: 40px;
+    text-decoration: none;
+    color: black;
+    transition: 1s;
+}
+
+.na_glav:hover {
+    color: blue;
+}
+
+/* .index {
+
+    background-image: url(./2img/bc.webp);
+} */
+
+.agl {
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    background-color: white;
+}
+
+.skele {
+    transition: 1s;
+    box-shadow: 2px 1px 46px 7px rgba(0, 0, 0, 0.48);
+    -webkit-box-shadow: 2px 1px 46px 7px rgba(0, 0, 0, 0.48);
+    -moz-box-shadow: 2px 1px 46px 7px rgba(0, 0, 0, 0.48);
+}
+
+
+.skele:hover {
+    transform: scale(1.1);
+}
+
+.had {
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.header {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.a_trex {
+    transition: 1s;
+    font-size: 40px;
+    color: black;
+    text-decoration: none;
+}
+
+.a_trex:hover {
+    color: blue;
+}
+
+.h2_trex {
+    font-size: 50px;
+}
+
+.na_glav:hover {
+    color: blue;
+}
+
+.mult {
+    height: 400px;
+    border-radius: 10px;
+}
+
+.mult_img {
+    width: 300px;
+    height: 320px;
+}
+
+.a_a_a {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 50px;
+    text-decoration: none;
+    color: black;
+    width: 45%;
+    margin: 40px auto;
+    height: 125px;
+}
+
+
+
+.content_trex {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 300px;
+}
+
+.a_3 {
+    font-size: 21px;
+    text-decoration: none;
+    transition: all 0.3s;
+
+}
+
+.alien_img {
+    margin-bottom: 40px;
+}
+
+.p_alien {
+    margin-top: 35px;
+}
+
+
+.a_3:hover {
+    transform: scale(1.2);
+   color: blue;
+
+}
+
+.cont {
+    padding: 10px;
+}
+
+.wrap {
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrap_1 {
+    display: flex;
+    justify-content: space-between;
+    gap: 150px;
+
+}
+
+.content_trecks {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.a {
+    text-align: center;
+
+}
+
+.trecks_asd {
+    background-image: url(./img/phone\ rep.jpg  );
+
+}
+
+.mag {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.obzorss {
+    color: white;
+}
+
+.look {
+    text-align: center;
+    background-color: rgb(209, 209, 209);
+    width: 350px;
+    color: black;
+    margin: 20px 20px;
+    border-radius: 18px;
+    padding: 10px;
+}
+
+
+
+.look__a {
+    color: black;
+    text-decoration: none;
+
+}
+
+.wrapikchek {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.na_glavik {
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+
+.glav__wrap {
+    align-items: center;
+    margin-top: 100px;
+    padding: 60px;
+}
+
+.firm {
+    background-image: url(./img4/35.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.h2__firms {
+    font-size: 27px;
+}
+
+p{
+    color: black;
+}
+
+.stolb_a3{
+    text-align: center;
+    width: 280px;
+    flex-direction: column;
+    gap: 25px;
+    flex-direction: row;
+  
+}
+
+.card{
+    align-items: center;
+    text-align: center;
+}
+
+.stolb_a2{
+    text-align: center;
+    width: 280px;
+   
+}
+
+.stolb_a1{
+    text-align: center;
+    width: 280px;
+ 
+}
+
+.a_3{
+    font-size: 25px;
+  
+}
+
+.rab{
+    display: block;
+
+}
+
+.a_2{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.new3{
+    font-size: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 1025px) {
+
+    .glav {
+        display: flex;
+        justify-content: space-around;
+    }
+
+}
+
+@media (max-width: 426px) {
+
+    .div {
+        width: 35%;
+        height: 33vh;
+
+    }
+
+    .img__j1 {
+        width: 135px;
+    }
+
+    .joj {
+        height: 145px;
+    }
+
+
+
+}
+
+@media (max-width: 376px) {
+
+    .div {
+        width: 35%;
+        height: 30vh;
+
+    }
+
+    .img__j1 {
+        width: 120px;
+    }
+
+    .joj {
+        height: 135px;
+    }
+
+}
+
+
+
+
+@media (max-width: 630px){
+
+
+    .sad{
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 680px){
+    .sad{
+       font-size: 28px;
+       
+    }
+
+
+}
+
+
+@media (max-width: 478px){
+ 
+    .glav__wrap{
+        margin-top: 10px;
+    }
+    
+    .sad{
+height: 100px;
+width: 130px;
+    }
+}
+
+@media (max-width: 415px){
+
+
+   .dsa{
+    gap: 30px;
+   
+   }
+
+   h1{
+    width: 80%;
+   }
+
+   .sad{
+    font-size: 12px;
+    height: 100px;
+    width: 200px;
+   }
+   .div{
+    height: 25vh;
+   }
+
+
+}
+
+@media (max-width: 840px){
+   
+    .sad{
+        font-size: 30px;
+    }
+
+}
+
+@media (max-width: 580px){
+    .sad{
+font-size: 20px;
+    }
+}
+
+@media (max-width: 396px){
+    .div{
+        height: 30vh;
+    }
+
+    .img__j1{
+        width: 126px;
+    }
+}
+
+
+
